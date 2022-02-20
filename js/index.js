@@ -1,11 +1,11 @@
-import galleryItems from "./js/images.js";
+import galleryItems from "./images.js";
 import {
   galleryList,
   overlayDiv,
   lightboxOverlay,
   image,
   btnClose,
-} from "./js/variables.js";
+} from "./variables.js";
 
 ////////////////////////////////////// СОЗАНИЕ РАЗМЕТКИ ГАЛЛЕРЕИ ///////////////////////////////////////
 

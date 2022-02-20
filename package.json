@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-09-gallery-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksandrKudriavtsev/goit-js-hw-09-gallery-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OleksandrKudriavtsev/goit-js-hw-09-gallery-parcel/issues"
+  },
+  "homepage": "https://github.com/OleksandrKudriavtsev/goit-js-hw-09-gallery-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
